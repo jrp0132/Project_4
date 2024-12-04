@@ -10,6 +10,11 @@ Data Retrieval - James
 Data Cleaning - Laura and Jane 
 Data Modeling - Rob and Ross
 
+Data Limits: 
+Adult Mortality Lower Limit: 200 per 1000
+Under 5 Lower Limit: 65 per 1000
+Infant Death Lower Limit: 27 per 1000
+
 Data Source:
 https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who?resource=download
 
